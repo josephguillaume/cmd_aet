@@ -1,0 +1,4 @@
+
+export(cmd_aet.sim)
+export(cmd_aet.ranges)
+useDynLib(cmd.aet, sma_cmd_aet)
